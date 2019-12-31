@@ -7,3 +7,15 @@ http://localhost:5000/graphql
 ```
 npm run server
 ```
+
+### Run client and server
+
+```
+yarn run dev
+```
+
+or 
+
+```
+npm run dev
+```
